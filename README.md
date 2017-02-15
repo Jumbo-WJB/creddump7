@@ -1,3 +1,6 @@
+//http://www.th7.cn/Program/Python/201608/923081.shtml  离线抓取域登录缓存hash(mscash)
+
+
 #Information
 This repo is for my modifications to the original 'creddump' program available
 at: 
